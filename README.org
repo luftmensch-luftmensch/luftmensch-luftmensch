@@ -18,7 +18,7 @@
 #+BEGIN_HTML
 <div style="text-align: center">
   <a href="https://github.com/luftmensch-luftmensch">
-      <img src="./img/me.png" width=80px height=80px>
+      <img src="./img/header.png">
   </a>
 </div>
 #+END_HTML
